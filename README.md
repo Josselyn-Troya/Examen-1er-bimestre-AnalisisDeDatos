@@ -26,4 +26,4 @@
 - Los datos fueron migrados de MongoDB a MongoDB Atlas
 - Los datos de la base de datos **twitter** de la colección **udemy** de MongoDB se guardaron en la base de datos **examen** en la colección **udemy** de MongoDB Atlas
 ## 9_10.py
-- Los datos fueron convertidos a un archivo .csv con el nombre de **examen** de la base de datos **examen** de la colección **udemy** de MongoDB Atlas 
+- Los datos de la base de datos **examen** de la colección **udemy** de MongoDB Atlas fueron convertidos a un archivo .csv con el nombre de **examen**  
